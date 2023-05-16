@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/bhupendra_sam" target="blank"><img src="https://img.shields.io/twitter/follow/bhupendra_sam?logo=twitter&style=for-the-badge" alt="bhupendra_sam" /></a> </p>
 
-- 🌱 I’m currently learning **KOTLIN AND PHP **
+- 🌱 I’m currently on ** JAVA Spring boot & Blockchain **
 
 - 👨‍💻 All of my projects are available at [https://github.com/bhupendrasambare](https://github.com/bhupendrasambare)
 
-- 💬 Ask me about **Android app | Web development**
+- 💬 Ask me about **Java Spring boot | Web development**
 
 - 📫 How to reach me **bhupendrasam1404@gmail.com**
 
@@ -43,6 +43,5 @@
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>&ensp;&ensp;&ensp;
 <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p><br />
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhupendrasambare&show_icons=true&locale=en&layout=compact" alt="bhupendrasambare" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=bhupendrasambare&show_icons=true&locale=en" alt="bhupendrasambare" /></p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhupendrasambare&" alt="bhupendrasambare" /></p>
