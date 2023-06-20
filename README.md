@@ -1,3 +1,9 @@
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=bhupendrasambare&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
+
+
+
 # 💫 About Me:
  🌱 I’m currently on ** JAVA Spring boot & Blockchain **<br><br>👨‍💻 All of my projects are available at [https://github.com/bhupendrasambare](https://github.com/bhupendrasambare)<br><br>💬 Ask me about **Java Spring boot | Web development**<br><br>📫 How to reach me **bhupendrasam1404@gmail.com**
 
@@ -11,9 +17,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=bhupendrasambare&theme=react&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bhupendrasambare&theme=react&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bhupendrasambare&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=bhupendrasambare&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
 
 
 ### 🔝 Top Contributed Repo
