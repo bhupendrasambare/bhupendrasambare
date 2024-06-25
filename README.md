@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
-</div>
-
 ###
 
 <div align="center">
@@ -37,36 +33,50 @@
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=spring" height="30" alt="spring logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" alt="laravel logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="40" alt="codeigniter logo"  />
+  <img src="https://skillicons.dev/icons?i=jenkins" height="30" alt="jenkins logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kafka" height="40" alt="apachekafka logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="40" alt="jenkins logo"  />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="bootstrap logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=kafka" height="30" alt="apachekafka logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="40" alt="filezilla logo"  />
+  <img src="https://skillicons.dev/icons?i=firebase" height="30" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=idea" height="30" alt="intellijidea logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=jquery" height="30" alt="jquery logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=laravel" height="30" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=solidity" height="30" alt="solidity logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="30" alt="visualstudio logo"  />
 </div>
 
 ###
